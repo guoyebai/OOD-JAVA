@@ -1,3 +1,5 @@
+package elevatorsystem;
+
 public class Request {
     private  int floor;
     private Direction direction;
